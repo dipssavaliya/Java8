@@ -1,4 +1,4 @@
-package java8;
+package Java8;
 import java.math.BigInteger;
 import java.util.*;
 import java.util.stream.Collector;

@@ -1,4 +1,4 @@
-
+package Java8;
 interface sayable{  
     void say(String msg);   // abstract method  
 }  

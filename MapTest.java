@@ -1,9 +1,9 @@
+package Java8;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import java.util.Map.Entry;
 
-import com.sun.tools.javac.comp.Enter;
 
 public class MapTest {
 	public static void main(String[] args) {

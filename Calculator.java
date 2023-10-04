@@ -1,4 +1,4 @@
-package java8;
+package Java8;
 
 interface cal {
 	int subtract(int m1, int m2);

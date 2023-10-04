@@ -1,3 +1,4 @@
+package Java8;
 import java.util.stream.Stream;
 
 public class StreamJava {

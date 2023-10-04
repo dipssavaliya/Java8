@@ -1,4 +1,4 @@
-package java8;
+package Java8;
 
 public interface MyFunctionalInterface {
 

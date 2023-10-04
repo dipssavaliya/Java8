@@ -1,5 +1,4 @@
-package java8;
-
+package Java8;
 import java.util.Optional;
 
 public class optionalDemo {

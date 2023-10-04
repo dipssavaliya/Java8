@@ -1,5 +1,4 @@
-package java8;
-
+package Java8;
 //Java program to demonstrate
 //Custom filter
 
